@@ -23,7 +23,7 @@ example :
 * Telegram Bot Token
 * Telegram User/Group ID
 
-there's 2 folder and 1 file at this repository, place them at /root
+there's 1 folder and 2 file at this repository, place them at /root
 
 **configuration step**
 
@@ -41,7 +41,7 @@ there's 2 folder and 1 file at this repository, place them at /root
 
 > **root@localhost:~#** git clone https://github.com/FelixKA88/cactitotelegram.git
 
-#make sure there's 2 folder and 2 files path is on "/root", or you can modify the path inside the script
+#make sure there's 1 folder and 2 files path is on "/root", or you can modify the path inside the script
 
 #clone this repository to use your linux command from telegram
 
