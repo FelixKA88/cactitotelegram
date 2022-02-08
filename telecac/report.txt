@@ -1,0 +1,18 @@
+----------EXAMPLE OUTPUT----------
+
+Update Status MyApplication
+Tue Feb  8 10:16:16 WIB 2022
+-----------------------------------------------------------
+1.HOST 1	UP	7.45 ms
+2.HOST 2	UP	7.27 ms
+3.HOST 3	UP	7.34 ms
+4.HOST 4	UP	8.97 ms
+5.HOST 5	RECOVERING	7.79 ms
+6.HOST 6	UP	7.22 ms
+7.HOST 7	UP	7.27 ms
+8.HOST 8	UP	7.60 ms
+9.HOST 9	UP	7.32 ms
+10.HOST 10	UP	8.68 ms
+11.HOST 11	UP	7.56 ms
+12.HOST 12	UP	9.12 ms
+13.HOST 13	UP	33.15 ms
