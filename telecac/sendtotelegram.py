@@ -12,7 +12,7 @@ with open('report.txt', 'r') as file:
 #.replace is used to tidy up the string given to bot
 	data = file.read().replace("UP", ": UP  ").replace("UNKNOWN", ": UNKNOWN  ").replace("DOWN", ": DOWN  ").replace("RECOVERING", ": RECOVERING  ").replace("ERROR", ": ERROR  ")
 
-#add bot token and user/group id
+#replace this bot token and user/group id
 TOKEN="561961:89rpjlkjda90e89"
 chat_id="-87912010310"
 
