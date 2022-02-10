@@ -47,7 +47,7 @@ there's 1 folder and 2 file at this repository, place them at /root
 
 > **root@localhost:~#** git clone https://github.com/botgram/shell-bot.git
 
-#edit the server.js so i can use /report command to get report from script sql.sh and sendtotelegram.py
+#edit the server.js so you can use /report command to get report from script sql.sh and sendtotelegram.py
 
 #see tag "// Command report" inside the new server.js
 
