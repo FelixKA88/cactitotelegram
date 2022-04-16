@@ -44,9 +44,13 @@ there's 1 folder and 2 file at this repository, place them at /root
 #make sure there's 1 folder and 2 files path is on "/root", or you can modify the path inside the script
 
 #clone this repository to use your linux command from telegram
+
 now install control remote server from telegram from linuxsec webs
+
 https://www.linuxsec.org/2017/11/kontrol-vps-server-menggunakan-telegram.html
+
 follow the instruction till done.
+
 #edit the server.js so you can use /report command to get report from script sql.sh and sendtotelegram.py
 
 #see tag "// Command report" inside the new server.js
